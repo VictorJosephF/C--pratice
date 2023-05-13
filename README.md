@@ -1,2 +1,2 @@
-# python-pratice
-Mostrar minha evolução na linguagem python.
+# C#-pratice
+Mostrar minha evolução na linguagem C#.
